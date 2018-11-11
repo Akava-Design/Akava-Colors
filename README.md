@@ -1,5 +1,5 @@
 # Akava-Colors
-
+![](https://i.imgur.com/CDN698l.png)
 KDE/QT colors
 
 ## Hot to use
